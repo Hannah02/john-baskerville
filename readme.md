@@ -4,6 +4,8 @@
     <meta charset="utf-8" />
 	<title>John Baskerville</title>
 </head>
+
+<body>
 <article>
 <section>
 <header>
@@ -52,6 +54,6 @@ Like Baskerville, Mrs Eaves, cut by Zuzana Licko of Émigré, has a near vertica
 The content on this page is developed from original copy from Wikipedia and licensed under a Creative Commons Attribution-ShareAlike License, meaning you’re allowed to copy, distribute and transmit the work as long as it is attributed to the original authors.
 </small>
 </footer>
-
 </article>
+</body>
 </html>
