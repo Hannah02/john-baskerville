@@ -8,3 +8,4 @@ John Baskerville
 ###Week 02
 
 - [Version 2](https://Hannah02.github.io/john-baskerville/version2.html)
+- [Version 3](https://Hannah02.github.io/john-baskerville/version3.html)
