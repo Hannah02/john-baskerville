@@ -16,4 +16,4 @@ John Baskerville
 
 ###Week 04
 
-- [Version 6](https://Hannah02.github.io/john-baskerville/version5.html)
+- [Version 6](https://Hannah02.github.io/john-baskerville/version6.html)
