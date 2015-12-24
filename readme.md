@@ -17,3 +17,8 @@ John Baskerville
 ###Week 04
 
 - [Version 6](https://Hannah02.github.io/john-baskerville/version6.html)
+
+###Week 05
+
+- [Version 7](https://Hannah02.github.io/john-baskerville/version7.html)
+- [Version 8](https://Hannah02.github.io/john-baskerville/version8.html)
