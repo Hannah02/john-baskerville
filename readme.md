@@ -36,4 +36,4 @@ Introducing media queries
 
 ###Additional Baskerville Exercise
 
--[Baskerville html exercise] (https://Hannah02.github.io/john-baskerville/Baskerville-exercise/index.html)
+- [Baskerville CSS exercise](https://Hannah02.github.io/john-baskerville/Baskerville-exercise/index.html)
