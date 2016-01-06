@@ -33,3 +33,7 @@ CSS reset
 
 - [Version 8](https://Hannah02.github.io/john-baskerville/version8.html)
 Introducing media queries
+
+###Additional Baskerville Exercise
+
+-[Baskerville CSS and html exercise] (https://Hannah02.github.io/john-baskerville/Baskerville-exercise/index.html)
