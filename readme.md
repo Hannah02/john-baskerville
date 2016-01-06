@@ -33,10 +33,3 @@ CSS reset
 
 - [Version 8](https://Hannah02.github.io/john-baskerville/version8.html)
 Introducing media queries
-
-###Additional Baskerville Exercise
-
-<a href="https://Hannah02.github.io/john-baskerville/index.html">
-In this task, we had to add CSS to a html file to match the formatting of the following image-
-
-<img src="make_this_1.png" alt="Image to match formatting"/>
